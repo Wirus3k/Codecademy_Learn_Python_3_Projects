@@ -4,8 +4,8 @@
 ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from individual characters.
 
 Write a Python program called initials.py that displays the initials of your name in block letters as shown and dip your toes into ASCII art.
-### :two: Math Magic<br />
-In this project, you will become a mathemagician and write a small program that performs a mathematical magic trick! It will involve performing arithmetic operations on an integer that you choose.
+### :two: Receipts for Lovely Loveseats<br />
+In this project, we will be storing the names and prices of a furniture store’s catalog in variables. You will then process the total price and item list of customers, printing them to the output terminal.
 
 ### :three: A Basic Calculator<br />
 In this project, you will use classes, methods, and objects to create a simple arithmetic calculator. The calculator will be able to:
