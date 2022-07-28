@@ -11,8 +11,8 @@ In this project, we will be storing the names and prices of a furniture store’
 The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or advice seeking.
 
 Write a magic8.py Python program that can answer any “Yes” or “No” question with a different fortune each time it executes.
-### :four: Build A Droid<br />
-We’ve set up a robot workshop to build some droids.
+### :four: Sal's Shipping<br />
+Write a shipping.py Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
 
 ### :five: A Simple Car Loan Payment Calculator<br />
 In this project, you will write a program that will calculate the monthly car payment a user should expect to make after taking out a car loan. The program will include the following:
