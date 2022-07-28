@@ -14,10 +14,17 @@ Write a magic8.py Python program that can answer any “Yes” or “No” quest
 ### :four: Sal's Shipping<br />
 Write a shipping.py Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
 
-### :five: A Simple Car Loan Payment Calculator<br />
-In this project, you will write a program that will calculate the monthly car payment a user should expect to make after taking out a car loan. The program will include the following:
+### :five: Gradebook<br />
+You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.
 
-* Car loan amount
-* Interest rate of the loan
-* Length of the loan (in years)
-* Down payment
+### :six: Len's Slice<br />
+You work at Len’s Slice, a new pizza joint in the neighborhood. You are going to use your knowledge of Python lists to organize some of your sales data.
+
+### :seven: Carly's Clippers<br />
+You are the Data Analyst at Carly’s Clippers, the newest hair salon on the block. Your job is to go through the lists of data that have been collected in the past couple of weeks. You will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.
+
+You have been provided with three lists:
+
+* hairstyles: the names of the cuts offered at Carly’s Clippers.
+* prices: the price of each hairstyle in the hairstyles list.
+* last_week: the number of purchases for each hairstyle type in the last week.
