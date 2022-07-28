@@ -7,15 +7,10 @@ Write a Python program called initials.py that displays the initials of your nam
 ### :two: Receipts for Lovely Loveseats<br />
 In this project, we will be storing the names and prices of a furniture store’s catalog in variables. You will then process the total price and item list of customers, printing them to the output terminal.
 
-### :three: A Basic Calculator<br />
-In this project, you will use classes, methods, and objects to create a simple arithmetic calculator. The calculator will be able to:
+### :three: Magic 8-Ball<br />
+The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or advice seeking.
 
-* Add two integers
-* Subtract two integers
-* Multiply two integers
-* Divide two integers
-* Apply the modulo operator on two integers
-
+Write a magic8.py Python program that can answer any “Yes” or “No” question with a different fortune each time it executes.
 ### :four: Build A Droid<br />
 We’ve set up a robot workshop to build some droids.
 
